@@ -1,0 +1,10 @@
+# Nmap 7.94SVN scan initiated Mon Sep 22 17:52:37 2025 as: nmap -sn -oN hosts_alive.txt 192.168.155.0/24
+Nmap scan report for _gateway (192.168.155.21)
+Host is up (1.0s latency).
+MAC Address: 06:6D:71:05:6F:5C (Unknown)
+Nmap scan report for 192.168.155.38
+Host is up (1.7s latency).
+MAC Address: 4A:E2:BD:01:91:AB (Unknown)
+Nmap scan report for lol-Nuvobook-V1 (192.168.155.224)
+Host is up.
+# Nmap done at Mon Sep 22 17:53:32 2025 -- 256 IP addresses (3 hosts up) scanned in 55.86 seconds
