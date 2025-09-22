@@ -1,0 +1,21 @@
+# Nmap 7.94SVN scan initiated Mon Sep 22 18:08:25 2025 as: nmap -sT -oN full_scan_results.txt 192.168.155.0/24
+Nmap scan report for _gateway (192.168.155.21)
+Host is up (0.011s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 06:6D:71:05:6F:5C (Unknown)
+
+Nmap scan report for 192.168.155.38
+Host is up (0.0088s latency).
+All 1000 scanned ports on 192.168.155.38 are in ignored states.
+Not shown: 1000 closed tcp ports (conn-refused)
+MAC Address: 4A:E2:BD:01:91:AB (Unknown)
+
+Nmap scan report for lol-Nuvobook-V1 (192.168.155.224)
+Host is up (0.00013s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT   STATE SERVICE
+80/tcp open  http
+
+# Nmap done at Mon Sep 22 18:09:21 2025 -- 256 IP addresses (3 hosts up) scanned in 56.36 seconds
